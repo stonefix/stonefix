@@ -9,6 +9,7 @@ If buttons aren't clickable, refresh the page.
 [Take me to the bottom](#bottom)
 
 ---
+<center>
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
 <a name="1"></a><br/><br/><br/>
@@ -1913,7 +1914,7 @@ If buttons aren't clickable, refresh the page.
 ⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/>
 <a name="951"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/>
-
+</center>
 
 ---
 
