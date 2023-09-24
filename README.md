@@ -1,11 +1,10 @@
 
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
-Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
+Let's play Tic-Tac-Toe! 
+Wait a moment for emojis to load, then click the top box to begin.
+X starts. Click a box to make your move.
 
-Xs go first, click one of the nine boxes to make your move.
-
-_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
+If buttons aren't clickable, refresh the page.
 
 [Take me to the bottom](#bottom)
 
