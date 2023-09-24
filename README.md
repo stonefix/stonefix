@@ -4,7 +4,7 @@ Let's play Tic-Tac-Toe!<br>
 Wait a moment for emojis to load, then click the <b>top box</b> to begin.<br>
 X starts. Click a <b>top box</b> to make your move.<br>
 
-All game actions occur within this top box.<br>
+All game actions occur within this <b>top box.</b><br>
 
 If buttons aren't clickable, refresh the page.<br> 
 
