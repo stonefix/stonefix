@@ -1,10 +1,10 @@
 
 <a name="top"></a>
-Let's play Tic-Tac-Toe! 
-Wait a moment for emojis to load, then click the top box to begin.
-X starts. Click a box to make your move.
+Let's play Tic-Tac-Toe!<br>
+Wait a moment for emojis to load, then click the <b>top box</b> to begin.<br>
+X starts. Click a <b>top box</b> to make your move.<br> 
 
-If buttons aren't clickable, refresh the page.
+If buttons aren't clickable, refresh the page.<br> 
 
 [Take me to the bottom](#bottom)
 
